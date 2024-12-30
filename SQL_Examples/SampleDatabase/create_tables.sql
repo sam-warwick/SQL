@@ -1,4 +1,4 @@
-.-- Create the Categories table
+-- Create the Categories table
 CREATE TABLE IF NOT EXISTS Categories (
     CategoryID INT PRIMARY KEY,
     CategoryName VARCHAR(50)
